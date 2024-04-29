@@ -1,0 +1,19 @@
+.adminContainer {
+  max-width: 100%;
+  display: flex;
+
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: auto;
+  padding: 40px;
+  justify-content: center;
+}
+.box {
+  max-width: 300px;
+  min-height: 300px;
+  border: 1px solid black;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.boxImg {
+  width: 100%;
+}
